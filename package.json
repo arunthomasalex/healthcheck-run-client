@@ -1,0 +1,27 @@
+{
+  "name": "@run/healthcheck-run-client",
+  "version": "0.1.0",
+  "description": "Client module to get report of the application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunthomasalex/healthcheck-run-client.git"
+  },
+  "keywords": [
+    "healthcheck",
+    "healthcheck-client"
+  ],
+  "author": "Arun Thomas Alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arunthomasalex/healthcheck-run-client/issues"
+  },
+  "homepage": "https://github.com/arunthomasalex/healthcheck-run-client#readme",
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {}
+}
