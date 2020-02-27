@@ -1,5 +1,5 @@
 {
-  "name": "@run/healthcheck-run-client",
+  "name": "healthcheck-run-client",
   "version": "0.1.0",
   "description": "Client module to get report of the application.",
   "main": "index.js",
