@@ -19,11 +19,5 @@
   "bugs": {
     "url": "https://github.com/arunthomasalex/healthcheck-run-client/issues"
   },
-  "homepage": "https://github.com/arunthomasalex/healthcheck-run-client#readme",
-  "devDependencies": {
-    "rimraf": "^3.0.2"
-  },
-  "dependencies": {
-    "lodash": "^4.17.15"
-  }
+  "homepage": "https://github.com/arunthomasalex/healthcheck-run-client#readme"
 }
